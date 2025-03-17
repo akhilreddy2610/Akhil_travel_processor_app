@@ -1,0 +1,17 @@
+{
+  "xsappname": "comnartproctravelprocessorapp",
+  "tenant-mode": "dedicated",
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.User",
+      "description": "User Scope"
+    }
+  ],
+  "oauth2-configuration": {
+    "token-validity": 3600,
+    "refresh-token-validity": 2592000,
+    "redirect-uris": [
+      "https://your-app.cfapps.us10-001.hana.ondemand.com/login/callback"
+    ]
+  }
+}
