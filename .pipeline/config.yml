@@ -6,3 +6,4 @@ stages:
     mtaBuild:
       buildTarget: 'CF'
       applicationPath: '.'
+      mtaFilePath: 'mta.yaml'
