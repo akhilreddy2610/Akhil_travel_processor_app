@@ -7,3 +7,4 @@ stages:
       buildTarget: 'CF'
       applicationPath: '.'
       mtaFilePath: 'mta.yaml'
+      applicationName: 'comnartproctravelprocessorapp'
