@@ -1,5 +1,7 @@
 general:
   productiveBranch: 'main'
+  applicationName: comnartproctravelprocessorapp
+  mtaFilePath: mta.yaml
 
 stages:
   Build:
