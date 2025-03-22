@@ -1,0 +1,8 @@
+general:
+  productiveBranch: 'main'
+
+stages:
+  Build:
+    mtaBuild:
+      buildTarget: 'CF'
+      applicationPath: 'travelprocessorapp'
